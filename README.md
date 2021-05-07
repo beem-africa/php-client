@@ -40,7 +40,7 @@ composer test
 
 ## Opening Issues
 
-If you have a feature request, or you encounter a bug, please file an issue on [our issue tracker on GitHub](https://github.com/Beem/php-client/issues).
+If you have a feature request, or you encounter a bug, please file an issue on [our issue tracker on GitHub](https://github.com/beem-africa/php-client/issues).
 
 ### Changelog
 
@@ -56,7 +56,7 @@ If you discover any security related issues, please email [alphaolomi@gmail.com]
 
 ## Credits
 
--   [Alpha Olomi](https://github.com/Beem)
+-   [Alpha Olomi](https://github.com/alphaolomi)
 -   [All Contributors](../../contributors)
 
 ## License
